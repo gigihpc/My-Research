@@ -1,0 +1,19 @@
+case1: 30 -> 7
+case2: 28 -> 7[exclude:19]
+case3: 28 -> 20 [excldue:19]
+case4: 29 -> 5
+case5: 29 -> 17
+case6: 27 -> 5
+case7: 29 -> 12 [exclude:19]
+case8: 19 -> 12 []
+case9: 12 -> 1
+case9: 29 -> 13
+case10: 28 -> 10
+
+
+revisi:
+case1: 30 -> 7
+case2: 28 -> 7
+case3: 28 -> 20
+case8: 19 -> 11
+case9: 28 -> 1
